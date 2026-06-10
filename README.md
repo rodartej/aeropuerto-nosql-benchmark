@@ -172,4 +172,4 @@ MIT — ver [LICENSE](LICENSE).
 ## Autor
 
 **Jesús Eduardo Rodarte Rosales**
-[GitHub](https://github.com/rodartej) · jesusrod254@gmail.com
+[GitHub](https://github.com/rodartej) · [LinkedIn](https://www.linkedin.com/in/jesusrodarte/) · jesusrod254@gmail.com
