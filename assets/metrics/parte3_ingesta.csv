@@ -1,0 +1,7 @@
+motor,alcance,unidad,n_unidades,run1_s,run2_s,run3_s,mediana_s,min_s,max_s
+PostgreSQL Relacional,global,filas,543918,8.3061,8.6468,8.6831,8.6468,8.3061,8.6831
+PostgreSQL Relacional,2023,filas,271689,4.2825,4.2919,4.2634,4.2825,4.2634,4.2919
+PostgreSQL Relacional,2024,filas,272229,4.3091,4.2942,4.3264,4.3091,4.2942,4.3264
+BigQuery,global,docs,731,19.4164,28.2178,23.3598,23.3598,19.4164,28.2178
+BigQuery,2023,docs,365,13.7204,15.9620,18.9130,15.9620,13.7204,18.9130
+BigQuery,2024,docs,366,11.1505,16.4895,15.2329,15.2329,11.1505,16.4895

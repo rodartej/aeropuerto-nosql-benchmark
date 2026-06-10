@@ -1,0 +1,7 @@
+motor,alcance,unidad,n_unidades,run1_s,run2_s,run3_s,mediana_s,min_s,max_s
+PostgreSQL Relacional,global,filas,543918,8.3061,8.6468,8.6831,8.6468,8.3061,8.6831
+MongoDB,global,docs,731,0.4236,0.3681,0.3676,0.3681,0.3676,0.4236
+PostgreSQL Relacional,2023,filas,271689,4.2825,4.2919,4.2634,4.2825,4.2634,4.2919
+MongoDB,2023,docs,365,0.1995,0.2007,0.2164,0.2007,0.1995,0.2164
+PostgreSQL Relacional,2024,filas,272229,4.3091,4.2942,4.3264,4.3091,4.2942,4.3264
+MongoDB,2024,docs,366,0.1938,0.2068,0.2025,0.2025,0.1938,0.2068

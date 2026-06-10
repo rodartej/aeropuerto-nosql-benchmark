@@ -1,0 +1,222 @@
+{
+  "aerolineas": [
+    {
+      "iata": "AM",
+      "nombre": "Aeroméxico",
+      "pais": "México"
+    },
+    {
+      "iata": "IB",
+      "nombre": "Iberia",
+      "pais": "España"
+    },
+    {
+      "iata": "LH",
+      "nombre": "Lufthansa",
+      "pais": "Alemania"
+    },
+    {
+      "iata": "UA",
+      "nombre": "United Airlines",
+      "pais": "Estados Unidos"
+    },
+    {
+      "iata": "AV",
+      "nombre": "Avianca",
+      "pais": "Colombia"
+    },
+    {
+      "iata": "AA",
+      "nombre": "American Airlines",
+      "pais": "Estados Unidos"
+    },
+    {
+      "iata": "AF",
+      "nombre": "Air France",
+      "pais": "Francia"
+    },
+    {
+      "iata": "KL",
+      "nombre": "KLM",
+      "pais": "Países Bajos"
+    }
+  ],
+  "aeropuertos": [
+    {
+      "iata": "MEX",
+      "nombre": "Aeropuerto Internacional Benito Juárez",
+      "ciudad": "Ciudad de México",
+      "pais": "México"
+    },
+    {
+      "iata": "CUN",
+      "nombre": "Aeropuerto Internacional de Cancún",
+      "ciudad": "Cancún",
+      "pais": "México"
+    },
+    {
+      "iata": "GDL",
+      "nombre": "Aeropuerto Internacional Miguel Hidalgo",
+      "ciudad": "Guadalajara",
+      "pais": "México"
+    },
+    {
+      "iata": "MAD",
+      "nombre": "Aeropuerto Adolfo Suárez Madrid-Barajas",
+      "ciudad": "Madrid",
+      "pais": "España"
+    },
+    {
+      "iata": "BCN",
+      "nombre": "Aeropuerto de Barcelona-El Prat",
+      "ciudad": "Barcelona",
+      "pais": "España"
+    },
+    {
+      "iata": "FRA",
+      "nombre": "Aeropuerto de Fráncfort del Meno",
+      "ciudad": "Fráncfort",
+      "pais": "Alemania"
+    },
+    {
+      "iata": "JFK",
+      "nombre": "Aeropuerto Internacional John F. Kennedy",
+      "ciudad": "Nueva York",
+      "pais": "Estados Unidos"
+    },
+    {
+      "iata": "LAX",
+      "nombre": "Aeropuerto Internacional de Los Ángeles",
+      "ciudad": "Los Ángeles",
+      "pais": "Estados Unidos"
+    },
+    {
+      "iata": "MIA",
+      "nombre": "Aeropuerto Internacional de Miami",
+      "ciudad": "Miami",
+      "pais": "Estados Unidos"
+    },
+    {
+      "iata": "CDG",
+      "nombre": "Aeropuerto París-Charles de Gaulle",
+      "ciudad": "París",
+      "pais": "Francia"
+    },
+    {
+      "iata": "AMS",
+      "nombre": "Aeropuerto de Ámsterdam-Schiphol",
+      "ciudad": "Ámsterdam",
+      "pais": "Países Bajos"
+    },
+    {
+      "iata": "BOG",
+      "nombre": "Aeropuerto Internacional El Dorado",
+      "ciudad": "Bogotá",
+      "pais": "Colombia"
+    }
+  ],
+  "modelos": [
+    {
+      "codigo": "B789",
+      "fabricante": "Boeing",
+      "capacidad": 274,
+      "alcance_km": 14140
+    },
+    {
+      "codigo": "A35K",
+      "fabricante": "Airbus",
+      "capacidad": 350,
+      "alcance_km": 15000
+    },
+    {
+      "codigo": "A320",
+      "fabricante": "Airbus",
+      "capacidad": 150,
+      "alcance_km": 6100
+    },
+    {
+      "codigo": "B738",
+      "fabricante": "Boeing",
+      "capacidad": 160,
+      "alcance_km": 5765
+    },
+    {
+      "codigo": "A321",
+      "fabricante": "Airbus",
+      "capacidad": 220,
+      "alcance_km": 7400
+    },
+    {
+      "codigo": "B777",
+      "fabricante": "Boeing",
+      "capacidad": 396,
+      "alcance_km": 9700
+    }
+  ],
+  "servicios": [
+    {
+      "codigo": "WIFI01",
+      "descripcion": "Internet a bordo durante todo el vuelo",
+      "precio_base": 15.0
+    },
+    {
+      "codigo": "LUGG23",
+      "descripcion": "Maleta documentada extra de 23 kg",
+      "precio_base": 45.0
+    },
+    {
+      "codigo": "PRIO01",
+      "descripcion": "Abordaje prioritario",
+      "precio_base": 10.0
+    },
+    {
+      "codigo": "PETS01",
+      "descripcion": "Transporte de mascota en cabina",
+      "precio_base": 80.0
+    },
+    {
+      "codigo": "MEAL01",
+      "descripcion": "Menú gourmet a bordo",
+      "precio_base": 25.0
+    },
+    {
+      "codigo": "SEAT01",
+      "descripcion": "Selección de asiento preferente",
+      "precio_base": 18.0
+    },
+    {
+      "codigo": "LOUNG1",
+      "descripcion": "Acceso a sala VIP",
+      "precio_base": 55.0
+    },
+    {
+      "codigo": "INSU01",
+      "descripcion": "Seguro de viaje básico",
+      "precio_base": 22.5
+    }
+  ],
+  "clases": [
+    "Turista",
+    "Premier",
+    "Business",
+    "Primera"
+  ],
+  "estado_vuelo": [
+    "Programado",
+    "En vuelo",
+    "Aterrizado",
+    "Retrasado",
+    "Cancelado"
+  ],
+  "estado_pago": [
+    "Pagado",
+    "Pendiente",
+    "Reembolsado"
+  ],
+  "estado_boleto": [
+    "Emitido",
+    "Check-in",
+    "Abordado",
+    "Cancelado"
+  ]
+}

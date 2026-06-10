@@ -1,0 +1,29 @@
+consulta_id,descripcion,motor,alcance,run1_s,run2_s,run3_s,mediana_s,min_s,max_s,run1_s_sin_optim,run2_s_sin_optim,run3_s_sin_optim,mediana_s_sin_optim,min_s_sin_optim,max_s_sin_optim,n_filas_resultado
+Q1,Boletos por mes,PostgreSQL Relacional,global,0.0274,0.0228,0.0208,0.0228,0.0208,0.0274,0.0320,0.0316,0.0314,0.0316,0.0314,0.0320,25
+Q1,Boletos por mes,BigQuery,global,1.2900,1.5693,1.5519,1.5519,1.2900,1.5693,,,,,,,24
+Q2,Gasto prom. boleto x aerolínea,PostgreSQL Relacional,global,0.0497,0.0511,0.0511,0.0511,0.0497,0.0511,50.3821,49.9318,50.0883,50.0883,49.9318,50.3821,8
+Q2,Gasto prom. boleto x aerolínea,BigQuery,global,1.4453,1.3650,1.9442,1.4453,1.3650,1.9442,,,,,,,8
+Q3,Top 10 rutas por pasajeros,PostgreSQL Relacional,global,0.0301,0.0297,0.0300,0.0300,0.0297,0.0301,5.3972,5.5802,5.5194,5.5194,5.3972,5.5802,10
+Q3,Top 10 rutas por pasajeros,BigQuery,global,1.1955,1.1420,1.1602,1.1602,1.1420,1.1955,,,,,,,10
+Q4,Ocupación promedio por modelo,PostgreSQL Relacional,global,0.2245,0.2264,0.2255,0.2255,0.2245,0.2264,35.4965,35.8570,35.4205,35.4965,35.4205,35.8570,6
+Q4,Ocupación promedio por modelo,BigQuery,global,1.0567,1.0662,1.0236,1.0567,1.0236,1.0662,,,,,,,6
+Q5,Edad prom. pasajero por clase,PostgreSQL Relacional,global,0.0216,0.0223,0.0218,0.0218,0.0216,0.0223,2.1103,1.9854,1.9116,1.9854,1.9116,2.1103,4
+Q5,Edad prom. pasajero por clase,BigQuery,global,1.1277,1.1626,1.0567,1.1277,1.0567,1.1626,,,,,,,4
+Q6,Ingreso por servicios x aerolínea,PostgreSQL Relacional,global,0.0351,0.0357,0.0347,0.0351,0.0347,0.0357,49.5447,49.5370,49.4094,49.5370,49.4094,49.5447,8
+Q6,Ingreso por servicios x aerolínea,BigQuery,global,2.0827,1.0015,1.4021,1.4021,1.0015,2.0827,,,,,,,8
+Q1,Boletos por mes,PostgreSQL Relacional,2023,0.0195,0.0205,0.0190,0.0195,0.0190,0.0205,0.0210,0.0212,0.0217,0.0212,0.0210,0.0217,12
+Q1,Boletos por mes,BigQuery,2023,1.5039,1.1166,1.0761,1.1166,1.0761,1.5039,,,,,,,12
+Q1,Boletos por mes,PostgreSQL Relacional,2024,0.0220,0.0193,0.0181,0.0193,0.0181,0.0220,0.0211,0.0205,0.0205,0.0205,0.0205,0.0211,12
+Q1,Boletos por mes,BigQuery,2024,1.1964,1.1105,1.5378,1.1964,1.1105,1.5378,,,,,,,12
+Q2,Gasto prom. boleto,PostgreSQL Relacional,2023,0.0630,0.0631,0.0629,0.0630,0.0629,0.0631,11.9576,11.9108,11.7804,11.9108,11.7804,11.9576,8
+Q2,Gasto prom. boleto,BigQuery,2023,1.0584,1.5067,1.0347,1.0584,1.0347,1.5067,,,,,,,8
+Q2,Gasto prom. boleto,PostgreSQL Relacional,2024,0.0631,0.0637,0.0651,0.0637,0.0631,0.0651,14.2837,13.9275,14.5964,14.2837,13.9275,14.5964,8
+Q2,Gasto prom. boleto,BigQuery,2024,1.1452,1.0183,1.0167,1.0183,1.0167,1.1452,,,,,,,8
+Q3,Top 10 rutas,PostgreSQL Relacional,2023,0.0349,0.0355,0.0347,0.0349,0.0347,0.0355,1.4520,1.4417,1.4079,1.4417,1.4079,1.4520,10
+Q3,Top 10 rutas,BigQuery,2023,1.9420,1.0459,0.9813,1.0459,0.9813,1.9420,,,,,,,10
+Q3,Top 10 rutas,PostgreSQL Relacional,2024,0.0343,0.0342,0.0351,0.0343,0.0342,0.0351,3.8794,3.8830,3.7247,3.8794,3.7247,3.8830,10
+Q3,Top 10 rutas,BigQuery,2024,1.0787,0.8535,1.0445,1.0445,0.8535,1.0787,,,,,,,10
+Q6,Ingreso servicios,PostgreSQL Relacional,2023,0.0560,0.0553,0.0552,0.0553,0.0552,0.0560,60.8344,60.8281,60.1412,60.8281,60.1412,60.8344,8
+Q6,Ingreso servicios,BigQuery,2023,1.3161,1.5523,1.3819,1.3819,1.3161,1.5523,,,,,,,8
+Q6,Ingreso servicios,PostgreSQL Relacional,2024,0.0540,0.0532,0.0542,0.0540,0.0532,0.0542,60.6569,60.4387,60.7962,60.6569,60.4387,60.7962,8
+Q6,Ingreso servicios,BigQuery,2024,1.3459,1.3033,1.4025,1.3459,1.3033,1.4025,,,,,,,8

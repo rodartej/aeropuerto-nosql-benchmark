@@ -1,0 +1,11 @@
+{
+  "archivo_canonico": "aeropuerto_jerarquico.json",
+  "sha256": "454163d8e4c2276f4446a0408165b663ec6656ecdbb1e9a2b770538b78fef442",
+  "tamano_bytes": 105961482,
+  "n_documentos": 731,
+  "rango": {
+    "inicio": "2023-01-01",
+    "fin": "2024-12-31"
+  },
+  "generado_en": "2026-05-12T13:58:17"
+}

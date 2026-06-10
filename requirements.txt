@@ -1,0 +1,21 @@
+# Notebooks + análisis
+jupyter>=1.0
+jupyterlab>=4.0
+ipykernel>=6.27
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+
+# Bases de datos
+sqlalchemy>=2.0
+psycopg2-binary>=2.9          # PostgreSQL
+pymongo>=4.6                  # MongoDB
+neo4j>=5.16                   # Neo4j
+google-cloud-bigquery>=3.14   # BigQuery
+google-cloud-bigquery-storage>=2.24
+
+# Utilidades
+tqdm>=4.66
+python-dotenv>=1.0
+pyarrow>=14.0
